@@ -1,6 +1,6 @@
 .navbar {
-    background-color: #32705b;
-    font-family: 'Exo 2', sans-serif;
+    background-color: #32705b; /*Navbar-umrand farbe ändern*/
+    font-family: 'Exo 2', sans-serif; /*Schriftart*/
 }
 
 .b-example-divider {
@@ -17,7 +17,7 @@
   
   .container-fluid {
     background-color: rgba(230,221,206,255);
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Exo 2', sans-serif; /*Schriftart*/
   }
 
   #container1::before {
@@ -40,11 +40,11 @@
   }
 
   h1 p {
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Exo 2', sans-serif; /*Schriftart*/
   }
 
   .titlecontainer {
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Exo 2', sans-serif; /*Schriftart*/
   }
 
   
